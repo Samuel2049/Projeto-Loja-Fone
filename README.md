@@ -12,7 +12,7 @@ Esse é um projeto simples pra quem está começando no mundo da programação e
 
   - Css responsivo e funcional em todos os browsers, uma vez que foi utilizado um 'Css reset'.
 
-Vale mencionar algumas ferramentas dentro do Css que aprendi com esse projeto:
+Vale destacar algumas ferramentas dentro do Css que aprendi com esse projeto:
 
 ## Float : 
 
@@ -31,3 +31,5 @@ Nessa  foi o usado o `overflow : hidden;` que acaba por recalcular o novo contex
 ## Margin e Padding:
 
 As propriedades de espaçamentos são muito importantes mas quero chamar a atenção para suas formas reduzidas, uma vez que a praticidade deixa o código mais enxuto e foram muito utilizadas nesse projeto.
+
+*Menções especiais: Display, position, box model, seletores de tag*  

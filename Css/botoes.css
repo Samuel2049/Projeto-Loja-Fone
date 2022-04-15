@@ -1,0 +1,17 @@
+.button-1 {
+  color: #ffffff;
+  background-color: #e24647;
+  font-size: 20px;
+  display: inline-block;
+  padding: 20px 18px;
+  border: 2px solid #fff;
+}
+
+.button-2 {
+  color: #ffffff;
+  background-color: #252c41;
+  font-size: 20px;
+  display: inline-block;
+  padding: 20px 60px;
+
+}
