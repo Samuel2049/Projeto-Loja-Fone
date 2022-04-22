@@ -1,0 +1,38 @@
+.button-1 {
+  color: #ffffff;
+  background-color: #e24647;
+  font-size: 20px;
+  display: inline-block;
+  width: 218px;
+  height: 60px;
+  line-height: 56px;
+  /* Atenção na altura, pois a gente tirou 4px das bordas */
+  text-align: center;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  margin-right: 38px;
+}
+
+.button-2 {
+  color: #ffffff;
+  background-color: #252c41;
+  font-size: 20px;
+  display: inline-block;
+  width: 200px;
+  height: 60px;
+  vertical-align: bottom;
+  /* A propriedade vertical align foi muito importante nessa utilização */
+  line-height: 60px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.saiba-mais {
+  text-decoration: none;
+  color: #ffffff;
+  /* padding-top: 17px; */
+}
+
+.button-space {
+  padding-top: 98px;
+}
